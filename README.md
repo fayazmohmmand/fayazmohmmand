@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 BS Cybersecurity student at AWKUM, Pakistan<br>🛡️ CEH Certified <br>🔐 Building offensive & defensive tools @ FAK Security Labs<br>🎯 Focused on ASM, threat intel & SOC workflows<br>🚀 Open to internships in pentesting & security ops
-
+🎓 BS Cybersecurity student at AWKUM, Pakistan<br>🛡️ CEH Certified <br>🔐 Building offensive & defensive tools @ FAK Security Labs<br>🎯 🎯 Focused on penetration testing, threat intelligence, and security operations<br>🚀 🚀 Currently building: Attack Surface Management Platform · Threat Intelligence Platform · AI SOC Assistant
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fayaz-ahmad-781734265) 
