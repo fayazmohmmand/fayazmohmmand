@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BS Cybersecurity student at AWKUM, Pakistan<br>🛡️ CEH Certified | ISC2 CC | CCNA in progress<br>🔐 Building offensive & defensive tools @ FAK Security Labs<br>🎯 Focused on ASM, threat intel & SOC workflows<br>🚀 Open to internships in pentesting & security ops
+🎓 BS Cybersecurity student at AWKUM, Pakistan<br>🛡️ CEH Certified <br>🔐 Building offensive & defensive tools @ FAK Security Labs<br>🎯 Focused on ASM, threat intel & SOC workflows<br>🚀 Open to internships in pentesting & security ops
 
 
 ## 🌐 Socials:
